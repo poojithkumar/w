@@ -1,0 +1,16 @@
+1. Introduction to Hygieia
+Hygieia is a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.
+ 
+A typical project deals with Agile Project Management tool, Source Control, Continuous Integration (CI) tool, Testing tools, Static Code Analysis and Security Scanning tools, Deployment and Monitoring tools to name a few.
+ 
+Large enterprises and complex systems sometimes use multiple CI, Testing and Scanning tools. Each of these has nice dashboards to present key information stored in it. But what is lacking is a single, comprehensive end-to-end view of the state of a delivery pipeline in near real time.
+Hygieia is the solution & provides One Dashboard for the Entire CI/CD Pipeline
+
+
+Features
+Team Dashboard: Monitor things like workitems, code repo, builds, quality items (unit tests, security, coverage, etc.), and deployments in one dashboard.
+Real-time Status: Monitor quality, productivity, and work in process on a real-time basis within the dashboard.
+Configurable View: Set up the dashboard to display the widgets that matter most to your project, which helps amplify and shorten the feedback loop.
+Open Source:Hygieia is open source and free for everyone to use. We also encourage external users to commit to the project.
+
+
